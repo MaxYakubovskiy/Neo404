@@ -18,13 +18,6 @@ Here are the technologies I work with:
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
-
----
-
-## 📈 GitHub Stats  
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=MaxYakubovskiy&show_icons=true&theme=radical&count_private=true](https://github-readme-stats.vercel.app/api?username=MaxYakubovskiy&show_icons=true&theme=radical&count_private=true&hide=prs
-))
-
 ---
 
 ## 📫 Contact  
