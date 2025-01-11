@@ -21,7 +21,7 @@ Here are the technologies I work with:
 ---
 
 ## 📫 Contact  
-- **Email:** [example@email.com](maksit3467@gmail.com)  
+- **Email:** [maksit3467@gmail.com](maksit3467@gmail.com)  
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)  
 - **Portfolio:** [Your Website](https://example.com)  
 
