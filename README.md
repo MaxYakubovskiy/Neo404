@@ -6,17 +6,11 @@ I am a [your profession or specialty] with over X years of experience. I enjoy c
 
 ---
 
-## 🛠 Skills
-
-| **Category**           | **Technology 1** | **Technology 2** | **Technology 3** | **Technology 4** |
-|------------------------|------------------|------------------|------------------|------------------|
-| **Programming Languages** | Python           |                  |                  |                  |
-| **Frameworks**           | Django           | FastAPI          | aiogram          |                  |
-| **Development Tools**    | Git              | PyCharm          |                  |                  |
-| **Databases**            | PostgreSQL       | SQLite           |                  |                  |
-| **Operating Systems**    | Linux            |                  |                  |                  |
-| **Containerization**     | Docker           |                  |                  |                  |
-| **Other Databases**      |                  |                  |                  |                  |
+| **Programming Languages** | **Frameworks** | **Development Tools** | **Databases** | **Operating Systems** | **Containerization** | **Other Databases** |
+|------------------------|----------------------------|----------------|-----------------------|---------------|-----------------------|-----------------------|
+|                        | Python                     | Django         | Git                   | PostgreSQL    | Linux                 | Docker                |                     
+|                        |                            | FastAPI        | PyCharm               | SQLite        |                       |                       |                     
+|                        |                            | aiogram        |                       |               |                       |                                            
 
 
 
