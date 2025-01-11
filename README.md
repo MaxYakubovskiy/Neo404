@@ -8,7 +8,7 @@ I am a [your profession or specialty] with over X years of experience. I enjoy c
 
 | **Programming Languages** | **Frameworks** | **Development Tools** | **Databases** | **Operating Systems** | **Containerization** | **Other Databases** |
 |------------------------|----------------------------|----------------|-----------------------|---------------|-----------------------|-----------------------|
-|                        | Python                     | Django         | Git                   | PostgreSQL    | Linux                 | Docker                |                     
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                       | Python                     | Django         | Git                   | PostgreSQL    | Linux                 | Docker                |                     
 |                        |                            | FastAPI        | PyCharm               | SQLite        |                       |                       |                     
 |                        |                            | aiogram        |                       |               |                       |                                            
 
