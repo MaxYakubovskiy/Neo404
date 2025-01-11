@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ьфч!  
+# 👋 Hi, I'm Max!  
 ## 🚀 About Me  
 I am a [your profession or specialty] with over X years of experience. I enjoy creating [briefly describe what you create: web applications, mobile apps, designs, databases].  
 
@@ -10,13 +10,14 @@ I am a [your profession or specialty] with over X years of experience. I enjoy c
 Here are the technologies I work with:
 - **Programming Languages:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Frameworks:**  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+  ![aiogram](https://img.shields.io/badge/aiogram-2C2F33?style=flat&logo=python&logoColor=white)
 - **Development Tools:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
 
 ---
 
